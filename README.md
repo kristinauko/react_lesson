@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To Do List Application
+- GET List of to do items from JSON placeholder jsonplaceholder.typicode.com/
+- Mark checked items
+- Add new items
+- Delete item from the list
+- App has two pages: '/' and '/about'
+
+Course taken: https://www.youtube.com/watch?v=sBws8MSXN7A
+
+
 ## Available Scripts
 
 In the project directory, you can run:
